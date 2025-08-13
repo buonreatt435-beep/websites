@@ -12,6 +12,7 @@ System settings - "Security" - "Secure app spawning" may need to be disabled.
 
 [Source](https://github.com/RikkaApps/websites/pull/79#issue-1751837442)
 
+
 :::
 
 ### Start with root
@@ -32,7 +33,11 @@ Starting with wireless debugging works on Android 11 or above. This startup meth
 #### Pairing (only needs once)
 
 1. Start pairing in Shizuku<br><img :src="$withBase('/images/start_paring_from_shizuku.png')" style="max-width:320px;width:100%">
-2. [Enable Wireless debugging](#enable-wireless-debugging)
+2. [Enable Wireless debugging](#enable-wireless-debugg
+
+https://github.com/user-attachments/assets/04e4c989-9a29-411f-82db-91a5daafda10
+
+ing)
 3. Tap "Pair device with pairing code" in "Wireless debugging"<br><img :src="$withBase('/images/start_pairing.png')" style="max-width:320px;width:100%">
 4. Enter pairing code in Shizuku's notificaiton<br><img :src="$withBase('/images/enter_pairing_code.png')" style="max-width:320px;width:100%">
 
